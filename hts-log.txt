@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Dec 2024 15:01:16 at https://www.blackgarlic.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.blackgarlic.co.uk/ -O1 "E:\NEW WEB\blackgarlic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:03:25	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/c (from https://www.blackgarlic.co.uk/)
+15:03:25	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/t (from https://www.blackgarlic.co.uk/)
+15:08:28	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/ff2c0fa76a5347f3b0f298d9feb685de.jpg/v1/fill/w_39,h_26,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ff2c0fa76a5347f3b0f298d9feb685de.jpg (from https://www.blackgarlic.co.uk/)
+15:10:32	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/feed.xml (from https://www.blackgarlic.co.uk/)
+15:10:32	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/decodeURIComponent(e (from https://www.blackgarlic.co.uk/)
+15:18:28	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/media/emptystate.85a4add5.svg (from https://www.blackgarlic.co.uk/stockists)
+15:22:08	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/post/c (from https://www.blackgarlic.co.uk/post/how-to-use-black-garlic-in-innovative-ways)
+15:22:08	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/post/t (from https://www.blackgarlic.co.uk/post/how-to-use-black-garlic-in-innovative-ways)
+15:22:09	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/recipes (from https://www.blackgarlic.co.uk/post/how-to-use-black-garlic-in-innovative-ways)
+15:22:10	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/post/robots.txt (from https://www.blackgarlic.co.uk/post/how-to-use-black-garlic-in-innovative-ways)
+15:22:10	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/post/sitemap.xml (from https://www.blackgarlic.co.uk/post/how-to-use-black-garlic-in-innovative-ways)
+15:22:10	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/post/feed.xml (from https://www.blackgarlic.co.uk/post/how-to-use-black-garlic-in-innovative-ways)
+15:22:11	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/post/decodeURIComponent(e (from https://www.blackgarlic.co.uk/post/how-to-use-black-garlic-in-innovative-ways)
+15:26:11	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/product-page/c (from https://www.blackgarlic.co.uk/product-page/peeled-cloves-150-g)
+15:26:12	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/product-page/t (from https://www.blackgarlic.co.uk/product-page/peeled-cloves-150-g)
+15:26:17	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/product-page/robots.txt (from https://www.blackgarlic.co.uk/product-page/peeled-cloves-150-g)
+15:26:17	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/product-page/sitemap.xml (from https://www.blackgarlic.co.uk/product-page/peeled-cloves-150-g)
+15:26:17	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/product-page/feed.xml (from https://www.blackgarlic.co.uk/product-page/peeled-cloves-150-g)
+15:26:18	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/product-page/decodeURIComponent(e (from https://www.blackgarlic.co.uk/product-page/peeled-cloves-150-g)
+15:26:35	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/cerviche (from https://www.blackgarlic.co.uk/ceviche)
+15:27:23	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/page/sitemap.xml (from https://www.blackgarlic.co.uk/blog-1/page/2)
+15:27:23	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/page/feed.xml (from https://www.blackgarlic.co.uk/blog-1/page/2)
+15:27:23	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/page/decodeURIComponent(e (from https://www.blackgarlic.co.uk/blog-1/page/2)
+15:27:23	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/categories/c (from https://www.blackgarlic.co.uk/blog-1/categories/food)
+15:27:23	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/categories/t (from https://www.blackgarlic.co.uk/blog-1/categories/food)
+15:28:00	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/categories/robots.txt (from https://www.blackgarlic.co.uk/blog-1/categories/food)
+15:28:00	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/categories/sitemap.xml (from https://www.blackgarlic.co.uk/blog-1/categories/food)
+15:28:00	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/categories/feed.xml (from https://www.blackgarlic.co.uk/blog-1/categories/food)
+15:28:00	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/categories/decodeURIComponent(e (from https://www.blackgarlic.co.uk/blog-1/categories/food)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/hashtags/c (from https://www.blackgarlic.co.uk/blog-1/hashtags/blackgarlichealth)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/hashtags/t (from https://www.blackgarlic.co.uk/blog-1/hashtags/blackgarlichealth)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/hashtags/robots.txt (from https://www.blackgarlic.co.uk/blog-1/hashtags/blackgarlichealth)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/hashtags/sitemap.xml (from https://www.blackgarlic.co.uk/blog-1/hashtags/blackgarlichealth)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/hashtags/feed.xml (from https://www.blackgarlic.co.uk/blog-1/hashtags/blackgarlichealth)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/hashtags/decodeURIComponent(e (from https://www.blackgarlic.co.uk/blog-1/hashtags/blackgarlichealth)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/tags/c (from https://www.blackgarlic.co.uk/blog-1/tags/black-garlic)
+15:29:03	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/tags/t (from https://www.blackgarlic.co.uk/blog-1/tags/black-garlic)
+15:29:34	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/tags/robots.txt (from https://www.blackgarlic.co.uk/blog-1/tags/black-garlic)
+15:29:34	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/tags/sitemap.xml (from https://www.blackgarlic.co.uk/blog-1/tags/black-garlic)
+15:29:34	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/tags/feed.xml (from https://www.blackgarlic.co.uk/blog-1/tags/black-garlic)
+15:29:34	Error: 	"Not Found" (404) at link https://www.blackgarlic.co.uk/blog-1/tags/decodeURIComponent(e (from https://www.blackgarlic.co.uk/blog-1/tags/black-garlic)
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 35 seconds : 805 links scanned, 763 files written (309274457 bytes overall) [107421050 bytes received at 62636 bytes/sec], 294448051 bytes transferred using HTTP compression in 430 files, ratio 22%, 1.8 requests per connection
+(41 errors, 0 warnings, 0 messages)
